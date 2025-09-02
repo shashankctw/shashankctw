@@ -1,5 +1,5 @@
 #  About Me:
-Hey, I'm Shashank a frontend developer with a passion for building sublime web experiences.<br> While I have a solid background in the MERN stack, my true focus is on crafting compelling user interfaces with React and Next.js.<br>I'm always looking for new projects to dive into, whether it's collaborating on open-source initiatives or contributing to a team.<br> If you're building something innovative and frontend-focused, I'd love to chat.<br>Parallel to my work in web development, I'm exploring the core concepts and principles of AI.<br>Feel free to check out my repositories or reach out—I'm always open to connecting with other developers.
+Hey, I'm Shashank a frontend developer with a passion for building sublime web experiences.<br> While I have a solid background in the MERN stack, my true focus is on creating compelling user interfaces with React and Next.js.<br>I'm always looking for new projects to dive into, whether it's collaborating on open-source initiatives or contributing to a team.<br> If you're building something innovative and frontend-focused, I'd love to chat.<br>Parallel to my work in web development, I'm exploring the core concepts and principles of AI.<br>Feel free to check out my repositories or reach out—I'm always open to connecting with other developers.
 
 
 ## 🌐 Socials:
